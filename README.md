@@ -1,10 +1,13 @@
-﻿<img src="./icos/20151109o201812.wallpaintinglogoflat.v0.x0256y0168.png" align="right" width="204" height="134" alt="Logo 20151109°201812">
+﻿<!-- img src="./icos/20151109o201812.wallpaintinglogoflat.v0.x0256y0168.png" align="right" width="204" height="134" alt="Logo 20151109°201812" -->
 
 # Normai's Projects
 
 Here is an overview on my [GitHub](https://github.com/normai/) and [GitLab](https://gitlab.com/normai/) projects.
 
 ## Dotnet/C-Sharp/VB :
+
+<img src="./icos/20211205o0923.livesaver.v2.x0128y0128.png" align="right" width="112" height="112"
+ alt="Logo 20211205°0923">
 
 ### ![GitHub icon](./icos/20180615o0435.githubmark1.v0.x0032y0032.png) &nbsp; [DataSet4Access](https://github.com/normai/DataSet4Access)
 
@@ -16,6 +19,9 @@ Summary : Demonstrate how to make a DataSet on a WinForm work against an Access 
 
 Status : Good enough to provide the cornerstones
 
+<img src="./icos/20211206o1243.red-helicopter.v1.x0256y0133.png" align="right" width="166" height="86"
+ alt="Logo 20211206°1243">
+
 ### ![GitHub icon](./icos/20180615o0435.githubmark1.v0.x0032y0032.png) &nbsp; [DingsdaDemos](https://github.com/normai/DingsdaDemos)
 
 Platform : C-Sharp, Visual Studio 2017, .NET 4.6.1
@@ -26,7 +32,7 @@ Summary : This solution demonstrates inheritance, interfaces and IEnumerator.
 
 Status : A little bit bloated, should be condensed and renamed.
 
-<img src="./icos/20130705o0812.mcol-chess-horse.v0.x0200y0200.png" align="right" width="96" height="96" alt="Logo 20130705°0812">
+<img src="./icos/20130705o0812.mcol-chess-horse.v0.x0200y0200.png" align="right" width="112" height="112" alt="Logo 20130705°0812">
 
 ### ![GitHub icon](./icos/20180615o0435.githubmark1.v0.x0032y0032.png) &nbsp; [QueryPony](https://github.com/normai/QueryPony)
 
@@ -39,6 +45,8 @@ Summary : With QueryPony, you can connect to various databases, view the tables,
 Status : Proof-of-concept. Probably needs solution-upgrading
 
 ## JavaScript :
+
+<img src="./icos/20211218o0925.pattern-diamond-cubes-2.v1.x0128y0128.png" align="right" width="88" height="88" alt="Logo 20211218°0925">
 
 ### ![GitHub icon](./icos/20180615o0435.githubmark1.v0.x0032y0032.png) &nbsp; [canvasgear](https://github.com/normai/canvasgear)
 
@@ -90,6 +98,9 @@ Status : It works. There is room for enhancement.
 
 ## PHP :
 
+<img src="./icos/20211218o0933.cutlery-69792.v2.x0128y0128.png" align="right" width="112" height="112"
+ alt="Logo 20211218°0933">
+
 ### ![GitHub icon](./icos/20180615o0435.githubmark1.v0.x0032y0032.png) &nbsp; [contao-speisekarte](https://github.com/normai/contao-speisekarte)
 
 Platform : PHP/Contao
@@ -123,6 +134,9 @@ Note : The interesting files are
  which converts MySQL-PHP code to the more general code.
  See [downtown.trilo.de/svn/phplogin/trunk/PhpDbSwitch/](https://downtown.trilo.de/svn/phplogin/trunk/PhpDbSwitch/index.html).
 
+<img src="./icos/20211218o0943.guzzle-rest-api-test.v3.x0128y0128.png" align="right" width="96" height="96"
+ alt="Logo 20211218°0943">
+
 ### ![GitHub icon](./icos/20180615o0435.githubmark1.v0.x0032y0032.png) &nbsp; [rest-api-test-example](https://github.com/normai/rest-api-test-example)
 
 Platform : PHP/Composer/Guzzle/PHPUnit
@@ -146,6 +160,7 @@ Status : Works
 
 &nbsp;
 
-*Norbert, 2021-Oct-29*
+*Norbert, 2021-Dec-18*
+<span style="display:none">*Norbert, 2021-Oct-29*</span>
 
-<sup><sub><sup>File 20211029°0751 ܀Ω</sup></sub></sup>
+<sup><sub><sup>*[File 20211029°0751]* ܀Ω</sup></sub></sup>
