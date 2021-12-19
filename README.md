@@ -8,7 +8,7 @@ This is an overview on my [GitHub](https://github.com/normai/) and [GitLab](http
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-## &nbsp; [canvasgear](https://github.com/normai/canvasgear)
+### &nbsp; [canvasgear](https://github.com/normai/canvasgear)
 
 A JavaScript library to draw animated canvases by just specifying parameters in a data attribute.
  Summary&nbsp;: CanvasGear is a script to draw animated canvases by just specifying some parameters in the HTML.
@@ -18,7 +18,7 @@ A JavaScript library to draw animated canvases by just specifying parameters in 
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20100313o0039.php.gif"" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
 
-## &nbsp; [contao-speisekarte](https://github.com/normai/contao-speisekarte)
+### &nbsp; [contao-speisekarte](https://github.com/normai/contao-speisekarte)
 
 A a Contao extension to put a Speisekarte on the site
  (Contao is a PHP content management system).
@@ -29,7 +29,7 @@ A a Contao extension to put a Speisekarte on the site
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="20180615°0435">
 <img src="./icos/20211218o1236.icons8-ms-vb-6.v1.x0064y0064.png"" align="left" width="48" height="48" alt="Icon for Visual Basic" id="20211218°1236">
 
-## &nbsp; [DataSet4Access](https://github.com/normai/DataSet4Access)
+### &nbsp; [DataSet4Access](https://github.com/normai/DataSet4Access)
 
 A **Visual Basic** project with an **Access 2007** database file.
  It is accomplish a trivial sounding but in fact devilish mission.
@@ -41,7 +41,7 @@ A **Visual Basic** project with an **Access 2007** database file.
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1243.c-sharp-773659.v2.x0064y0064.png"" align="left" width="48" height="48" alt="Icon for C-Sharp" id="">
 
-## &nbsp; [DingsdaDemos](https://github.com/normai/DingsdaDemos)
+### &nbsp; [DingsdaDemos](https://github.com/normai/DingsdaDemos)
 
  A C-Sharp project to *demonstrate some non-trivial C-Sharp language features*.
  Summary&nbsp;: This solution demonstrates e.g. inheritance, interfaces and IEnumerator.
@@ -51,7 +51,7 @@ A **Visual Basic** project with an **Access 2007** database file.
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1243.c-sharp-773659.v2.x0064y0064.png"" align="left" width="48" height="48" alt="Icon for C-Sharp" id="">
 
-## &nbsp; [QueryPony](https://github.com/normai/QueryPony)
+### &nbsp; [QueryPony](https://github.com/normai/QueryPony)
 
 A C-Sharp project with *A Simple Generic Database Query Tool and API*.
  Summary&nbsp;: Connect to various databases, view tables, issue SQL statements and view the results.
@@ -62,7 +62,7 @@ A C-Sharp project with *A Simple Generic Database Query Tool and API*.
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20100313o0039.php.gif"" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
 
-## &nbsp; [php-login-xdb](https://github.com/normai/php-login-xdb)
+### &nbsp; [php-login-xdb](https://github.com/normai/php-login-xdb)
 
 A PHP MVC project to demonstrate simple login.
  Platform&nbsp;: PHP/[php-login](https://github.com/panique/php-login)
@@ -81,7 +81,7 @@ A PHP MVC project to demonstrate simple login.
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-## &nbsp; [Purple Terminals](https://github.com/normai/terminaljs) <span style="font-weight:normal;">(terminaljs)</span>
+### &nbsp; [Purple Terminals](https://github.com/normai/terminaljs) <span style="font-weight:normal;">(terminaljs)</span>
 
 A single-file JavaScript to put up terminals on a web page.
  Status&nbsp;: Applicable.
@@ -90,7 +90,7 @@ A single-file JavaScript to put up terminals on a web page.
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20100313o0039.php.gif"" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
 
-## &nbsp; [rest-api-test-example](https://github.com/normai/rest-api-test-example)
+### &nbsp; [rest-api-test-example](https://github.com/normai/rest-api-test-example)
 
 A PHP/Composer/Guzzle/PHPUnit project demonstrating 
  *how to use Guzzle for testing REST API's* with PHPUnit.
@@ -102,7 +102,7 @@ A PHP/Composer/Guzzle/PHPUnit project demonstrating
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-## &nbsp; [slidegear](https://github.com/normai/slidegear)
+### &nbsp; [slidegear](https://github.com/normai/slidegear)
 
 Yet another JavaScript slideshow.
  Status&nbsp;: It works.
@@ -112,7 +112,7 @@ Yet another JavaScript slideshow.
 <img src="./icos/20100313o0039.php.gif"" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-## &nbsp; [tickeditack](https://gitlab.com/normai/tickeditack)
+### &nbsp; [tickeditack](https://gitlab.com/normai/tickeditack)
 
 A PHP/JavaScript project to
  *demonstrate time telling with PHP and JavaScript*.
@@ -122,7 +122,7 @@ A PHP/JavaScript project to
 <img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-##  &nbsp; [wheel-of-fortune](https://gitlab.com/normai/wheel-of-fortune)
+###  &nbsp; [wheel-of-fortune](https://gitlab.com/normai/wheel-of-fortune)
 
 A JavaScript control to pick a random number from a HTML page.
  Summary&nbsp;: This is a small JavaScript control to pick a random integer
