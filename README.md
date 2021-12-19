@@ -32,7 +32,7 @@ A Contao extension to put a Speisekarte on the site
 ### &nbsp; [DataSet4Access](https://github.com/normai/DataSet4Access)
 
 A **Visual Basic** project with an **Access 2007** database file.
- It is accomplish a trivial sounding but in fact devilish mission.
+ It is accomplishing a trivially sounding but in fact devilish mission.
  Summary&nbsp;: Demonstrate how to make a DataSet on a WinForm work against an
  Access database file with **hierarchical table relations**. 
  Status&nbsp;: Good enough to provide the cornerstones.
