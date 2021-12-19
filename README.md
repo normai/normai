@@ -20,7 +20,7 @@ A JavaScript library to draw animated canvases by just specifying parameters in 
 
 ### &nbsp; [contao-speisekarte](https://github.com/normai/contao-speisekarte)
 
-A a Contao extension to put a Speisekarte on the site
+A Contao extension to put a Speisekarte on the site
  (Contao is a PHP content management system).
  Status&nbsp;: It works.
  Note&nbsp;: Forked from [LinkingYou/contao-speisekarte](https://github.com/LinkingYou/contao-speisekarte)
