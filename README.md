@@ -8,7 +8,7 @@ This is an overview on my [GitHub](https://github.com/normai/) and [GitLab](http
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-### &nbsp; [canvasgear](https://github.com/normai/canvasgear)
+### &nbsp; [CanvasGear](https://github.com/normai/canvasgear)
 
 A JavaScript library to draw animated canvases by just specifying parameters in a data attribute.
  Summary&nbsp;: CanvasGear is a script to draw animated canvases by just specifying some parameters in the HTML.
@@ -81,7 +81,7 @@ A PHP MVC project to demonstrate simple login.
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-### &nbsp; [Purple Terminals](https://github.com/normai/terminaljs) <span style="font-weight:normal;">(terminaljs)</span>
+### &nbsp; [PurpleTerms](https://github.com/normai/terminaljs) <span style="font-weight:normal;">(terminaljs)</span>
 
 A single-file JavaScript to put up terminals on a web page.
  Status&nbsp;: Applicable.
@@ -102,7 +102,7 @@ A PHP/Composer/Guzzle/PHPUnit project demonstrating
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-### &nbsp; [slidegear](https://github.com/normai/slidegear)
+### &nbsp; [SlideGear](https://github.com/normai/slidegear)
 
 Yet another JavaScript slideshow.
  Status&nbsp;: It works.
@@ -112,7 +112,7 @@ Yet another JavaScript slideshow.
 <img src="./icos/20100313o0039.php.gif"" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
-### &nbsp; [tickeditack](https://gitlab.com/normai/tickeditack)
+### &nbsp; [TickediTack](https://gitlab.com/normai/tickeditack)
 
 A PHP/JavaScript project to
  *demonstrate time telling with PHP and JavaScript*.
@@ -147,6 +147,6 @@ The Visual Basic logo comes from
 *Bye*
 
 *Norbert, 2021-Dec-19*
-<span style="display:none">*Norbert, 2021-Oct-29*</span>
+<!-- 2021-Oct-29 -->
 
 <sup><sub><sup>*[File 20211029°0751]* ܀Ω</sup></sub></sup>
