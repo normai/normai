@@ -98,6 +98,17 @@ A PHP/Composer/Guzzle/PHPUnit project demonstrating
  Note&nbsp;: Forked from [o/rest-api-test-example](https://github.com/o/rest-api-test-example)
  to contribute a little fix
 
+<img src="./icos/20220108o1727.snowwhiteportrait.v1.png" align="right" width="100" height="124" alt="Logo 20220108°1727" id="">
+<img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
+<img src="./icos/20211210o1533.sviluppocpp.v1.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for CPP" id="">
+
+###  &nbsp; [Schneewittchen](https://gitlab.com/normai/schneewittchen)
+
+A Visual Studio C++ solution demonstrating the separation of user interface from
+ functionality. One and the same functionality is handled by multiple different
+ user interfaces. The project shall show, how to wire together a CPP library,
+ a console UI and graphical UI.
+
 <img src="./icos/20190123o1126.plasticineprojector.v2.x0192y0112.png" align="right" width="134" height="78" alt="Logo 20130705°0812" id="">
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
@@ -129,6 +140,16 @@ A JavaScript control to pick a random number from a HTML page.
  between one and any desired. It comes with a sound effect like that
  of a real wheel of fortune. Numbers can be replaced by names.
  Status&nbsp;: It works. There is room for enhancement.
+
+<img src="./icos/20220122o1653.washing-window.v1.x0256y0203.png" align="right" width="128" height="101" alt="Logo 20220122°1653" id="">
+<img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
+<img src="./icos/20211210o1533.sviluppocpp.v1.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for CPP" id="">
+
+###  &nbsp; [WinApiTut](https://gitlab.com/normai/winapitut)
+
+A Visual Studio solution after [www.winprog.org/tutorial/](http://www.winprog.org/tutorial/)
+ by Brook Miles. It provides a quick primer into Windows Desktop
+ Application programming in CPP using the Windows API.
 
 ---
 
