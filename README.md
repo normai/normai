@@ -66,7 +66,7 @@ A PHP MVC project to demonstrate **simple login**.
  which converts MySQL-PHP code to the more general code.
  See [downtown.trilo.de/…/PhpDbSwitch/](https://downtown.trilo.de/svn/phplogin/trunk/PhpDbSwitch/index.html).
 
-<img src="./icos/20210512o1713.purple-bellied-lory.v2.x0256y0256.png" align="right" width="128" height="128" alt="Logo 20210512°1713" id="">
+<img src="./icos/20210512o1713.purple-bellied-lory.v2.x0256y0256.png" align="right" width="136" height="136" alt="Logo 20210512°1713" id="">
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
@@ -77,7 +77,9 @@ A single-file JavaScript to put up **terminals on a web page**.
 
 &nbsp;
 
-<img src="./icos/20130705o0812.mcol-chess-horse.v0.x0200y0200.png" align="right" width="112" height="112" alt="Logo 20130705°0812" id="">
+&nbsp;
+
+<img src="./icos/20130705o0812.mcol-chess-horse.v0.x0200y0200.png" align="right" width="104" height="104" alt="Logo 20130705°0812" id="">
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1243.c-sharp-773659.v2.x0064y0064.png"" align="left" width="48" height="48" alt="Icon for C-Sharp" id="">
 
@@ -133,6 +135,8 @@ A PHP/JavaScript project to
 
 &nbsp;
 
+&nbsp;
+
 <img src="./icos/20210820o1133.blank-wof-1-3162961.v0.x0128y0128.png" align="right" width="96" height="96" alt="Logo 20210820°1133" id="">
 <img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
@@ -145,7 +149,7 @@ A JavaScript control to **pick a random number** from a control on a HTML page.
  of a real wheel of fortune. Numbers can be replaced by names.
  Status&nbsp;: It works. There is room for enhancement.
 
-<img src="./icos/20220122o1653.washing-window.v1.x0256y0203.png" align="right" width="128" height="101" alt="Logo 20220122°1653" id="">
+<img src="./icos/20220122o1653.washing-window.v1.x0256y0203.png" align="right" width="132" height="106" alt="Logo 20220122°1653" id="">
 <img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211210o1533.sviluppocpp.v1.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for CPP" id="">
 
