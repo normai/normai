@@ -102,7 +102,7 @@ A PHP/Composer/Guzzle/PHPUnit project demonstrating
 <img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20211210o1533.sviluppocpp.v1.x0064y0064.png"" align="left" width="41" height="41" alt="Icon for CPP" id="">
 
-###  &nbsp; [Schneewittchen](https://gitlab.com/normai/schneewittchen)
+###  &nbsp; [Sneewittchen](https://gitlab.com/normai/sneewittchen)
 
 A Visual Studio C++ solution demonstrating the separation of user interface from
  functionality. One and the same functionality is handled by multiple different
