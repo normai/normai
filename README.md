@@ -14,7 +14,7 @@ A JavaScript library to draw animated canvases by just specifying parameters in 
  Summary&nbsp;: CanvasGear is a script to draw animated canvases by just specifying some parameters in the HTML.
  Status&nbsp;: Works, but has only few boring algorithms on board
 
-<img src="./icos/20211218o0933.cutlery-69792.v2.x0128y0128.png" align="right" width="112" height="112" alt="Logo 20211218°0933" id="">
+<img src="./icos/20211218o0933.cutlery-69792.v2.x0128y0128.png" align="right" width="100" height="100" alt="Logo 20211218°0933" id="">
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="32" height="32" alt="Logo" id="">
 <img src="./icos/20100313o0039.php.gif"" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
 
