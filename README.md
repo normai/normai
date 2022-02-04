@@ -58,6 +58,8 @@ A Visual Studio solution with several projects,
 
 &nbsp;
 
+&nbsp;
+
 <img src="./icos/20140713o061302.KlausGena_Ladybird_1.x0180y0180.png" align="right" width="84" height="84" alt="Logo 20140713°061302" id="">
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="36" height="36" alt="Logo" id="20180615°0435">
 <img src="./icos/20100313o0039.php.gif"" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
