@@ -103,6 +103,8 @@ A C-Sharp project with A Simple **Generic Database Query Tool** and API.
  Supported databases are MS-SQL, MySQL, ODBC, OleDb, Oracle, PostgreSQL, SQLite.
  Status&nbsp;: Proof-of-concept. Needs upgrading
 
+&nbsp;
+
 <a href="https://github.com/normai/rest-api-test-example"><img src="./icos/20211218o0943.guzzle-rest-api-test.v3.x0128y0128.png" align="right" width="84" height="84" alt="Logo 20211218°0943" id=""></a>
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="36" height="36" alt="Logo" id="20180615°0435">
 <img src="./icos/20100313o0039.php.gif" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
@@ -115,6 +117,8 @@ A PHP/Composer/Guzzle/PHPUnit project demonstrating
  Note&nbsp;: Forked from [o/rest-api-test-example](https://github.com/o/rest-api-test-example)
  to contribute a little fix
 
+&nbsp;
+
 <a href="https://github.com/normai/slidegear"><img src="./icos/20190123o1126.plasticineprojector.v2.x0192y0112.png" align="right" width="134" height="78" alt="Logo 20130705°0812" id=""></a>
 <img src="./icos/20180615o0435.githubmark1.v0.x0032y0032.png" align="left" width="36" height="36" alt="Logo" id="20180615°0435">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
@@ -123,6 +127,8 @@ A PHP/Composer/Guzzle/PHPUnit project demonstrating
 
 Yet another JavaScript **slideshow**.
  Status&nbsp;: It works.
+
+&nbsp;
 
 <a href="https://gitlab.com/normai/sneewittchen"><img src="./icos/20220108o1727.snowwhiteportrait.v1.png" align="right" width="120" height="149" alt="Logo 20220108°1727" id=""></a>
 <img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="40" height="40" alt="Logo" id="">
@@ -134,6 +140,8 @@ A Visual Studio C++ solution demonstrating the **separation of user interface fr
  functionality**. One and the same functionality is handled by multiple different
  user interfaces. The project shall show, how to wire together a CPP library,
  a console UI and graphical UI.
+
+&nbsp;
 
 <a href="https://gitlab.com/normai/tickeditack"><img src="./icos/20210904o1113.owl-clock-2.v2.x0256y0256.png" align="right" width="150" height="150" alt="Logo 20210904°1113" id=""></a>
 <img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="40" height="40" alt="Logo" id="">
