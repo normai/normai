@@ -137,7 +137,7 @@ A Visual Studio C++ solution demonstrating the **separation of user interface fr
 
 <a href="https://gitlab.com/normai/tickeditack"><img src="./icos/20210904o1113.owl-clock-2.v2.x0256y0256.png" align="right" width="150" height="150" alt="Logo 20210904°1113" id=""></a>
 <img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" align="left" width="40" height="40" alt="Logo" id="">
-<img src="./icos/20100313o0039.php.gif"" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
+<img src="./icos/20100313o0039.php.gif" align="left" width="60" height="33" alt="Icon for JavaScript" id="">
 <img src="./icos/20211218o1253.javascript-374972.v2.x0064y0064.png" align="left" width="41" height="41" alt="Icon for JavaScript" id="">
 
 ### &nbsp; [TickediTack](https://gitlab.com/normai/tickeditack)
