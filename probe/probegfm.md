@@ -19,7 +19,7 @@ Custom CSS will just not work on GitHub. &lt;div&gt;s are possible, but any
  custom styling inside is ignored. For a discussion on this see StackOverflow thread
  [Custom css file for readme.md in a Github repo](https://stackoverflow.com/questions/51956361/custom-css-file-for-readme-md-in-a-github-repo "[ref 20211218°1224]")
  . For the allowed tags and attributes see e.g.
- [kivikakk/whitelist.md](https://gist.github.com/kivikakk/622b5dcf395e26c49e2334f0eb19e6f9 "[ref 20211218°1225]")
+ [kivikakk/whitelist.md](https://gist.github.com/kivikakk/622b5dcf395e26c49e2334f0eb19e6f9 "[ref 20230211°0941, 20211218°1225]")
  
 
 <div class="BoxForProjectBoxes" id="id20211218o1055">

@@ -15,7 +15,7 @@ A JavaScript library to **draw animated canvases** by just specifying parameters
  Status&nbsp;: Works, but has only few boring algorithms on board
 
 
-<a href="https://gitlab.com/normai/cheeseburger"><img src="./icos/20220214o1333.gerald-g-fast-food-6.v4.x0256y0256.png" align="right" width="114" height="114" alt="Logo 20220214o1333" id="id20220103o0216"></a>
+<a href="https://gitlab.com/normai/cheeseburger"><img src="./icos/20220214o1333.gerald-g-fast-food-6.v4.x0256y0256.png" align="right" width="114" height="114" alt="Logo 20220214°1333" id="id20220103o0216"></a>
 <img src="./icos/20191224o1353.gitlab.v2.x0032y0032.png" style="margin-right:0.7em;" align="left" width="40" height="40" alt="Logo" id="id20220103o0218">
 <img src="./icos/20200805o1243.python.v1.x0048y0048.png" style="margin-right:0.7em;" align="left" width="41" height="41" alt="Icon for JavaScript" id="id20220103o0222">
 <img src="./icos/20180924o1117.tardigraduscut.v1.x0128y0128.png" style="margin-right:0.7em;" align="left" width="41" height="41" alt="Icon for JavaScript" id="id20220103o0224">
